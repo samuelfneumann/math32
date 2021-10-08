@@ -1,3 +1,3 @@
-module github.com/chewxy/math32
+module github.com/samuelfneumann/math32
 
 go 1.13
